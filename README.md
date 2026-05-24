@@ -19,3 +19,7 @@ This assignment of week 2 implements an end-to-end machine learning pipeline usi
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+# Dataset Source
+Dataset taken from Kaggle:
+https://www.kaggle.com/datasets/nalisha/tesla-ea-deliveries-and-production-data20152025
